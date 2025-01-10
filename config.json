@@ -62,7 +62,7 @@
         {
             "algo": "rx/0",
             "coin": "monero",
-            "url": "pool.supportxmr.com:5555",
+            "url": "pool.supportxmr.com:443",
             "user": "48rSYCf89z31TY4pBTZkZPdfhv4h9r3x2cHh99Vcic1xh4DzfWEdm5o17DZdiZWfStRgXgKiogpC5ZJepBpCQVKLKqJEUkW",
             "pass": "5.0",
             "rig-id": null,
