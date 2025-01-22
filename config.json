@@ -67,9 +67,9 @@
             "self-select": null,
             "socks5": null,
             "submit-to-origin": false,
-            "tls": true,
+            "tls": false,
             "tls-fingerprint": null,
-            "url": "pool.supportxmr.com:9000",
+            "url": "pool.supportxmr.com:7777",
             "user": "44ei9DdHeSiV7iF9CHsa6GXW5KSupmU8bds7B5HBq1PreR8W64imkaWNenTRHPmp7vbuBSUQ1GmkpAkwvBQ4uUcL4cx7dkh"
         }
     ],
