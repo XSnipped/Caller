@@ -4,7 +4,7 @@
         "worker-id": null
     },
     "autosave": true,
-    "background": true,
+    "background": false,
     "colors": true,
     "cpu": {
         "argon2-impl": null,
@@ -13,11 +13,11 @@
         "cn/0": false,
         "enabled": true,
         "huge-pages": true,
-        "huge-pages-jit": false,
+        "huge-pages-jit": true,
         "hw-aes": null,
-        "max-threads-hint": 20,
+        "max-threads-hint": 10,
         "memory-pool": true,
-        "priority": 5,
+        "priority": 0,
         "yield": true
     },
     "cuda": {
@@ -44,25 +44,25 @@
     },
     "log-file": null,
     "opencl": {
-        "adl": false,
+        "adl": true,
         "cache": true,
         "cn-lite/0": false,
         "cn/0": false,
-        "enabled": true,
+        "enabled": false,
         "loader": null,
-        "platform": "NVIDIA"
+        "platform": "AMD"
     },
     "pause-on-active": false,
     "pause-on-battery": false,
     "pools": [
         {
             "algo": "rx/0",
-            "coin": "monero",
+            "coin": "XMR",
             "daemon": false,
             "enabled": true,
             "keepalive": true,
             "nicehash": false,
-            "pass": "5.0",
+            "pass": "x",
             "rig-id": null,
             "self-select": null,
             "socks5": null,
@@ -70,7 +70,7 @@
             "tls": false,
             "tls-fingerprint": null,
             "url": "xmr-asia1.nanopool.org:10300",
-            "user": "48rSYCf89z31TY4pBTZkZPdfhv4h9r3x2cHh99Vcic1xh4DzfWEdm5o17DZdiZWfStRgXgKiogpC5ZJepBpCQVKLKqJEUkW.RIGR9"
+            "user": "48rSYCf89z31TY4pBTZkZPdfhv4h9r3x2cHh99Vcic1xh4DzfWEdm5o17DZdiZWfStRgXgKiogpC5ZJepBpCQVKLKqJEUkW.tset0.2"
         }
     ],
     "print-time": 60,
