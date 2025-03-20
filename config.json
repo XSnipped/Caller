@@ -32,7 +32,7 @@
         "ipv6": false,
         "ttl": 30
     },
-    "donate-level": 1,
+    "donate-level": 0,
     "donate-over-proxy": 0,
     "health-print-time": 60,
     "http": {
