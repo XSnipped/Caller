@@ -57,12 +57,12 @@
     "pools": [
         {
             "algo": "rx/0",
-            "coin": "XMR",
+            "coin": "monero",
             "daemon": false,
             "enabled": true,
             "keepalive": true,
             "nicehash": false,
-            "pass": "x",
+            "pass": "XMRminer001",
             "rig-id": null,
             "self-select": null,
             "sni": false,
@@ -70,8 +70,8 @@
             "submit-to-origin": false,
             "tls": false,
             "tls-fingerprint": null,
-            "url": "xmr-asia1.nanopool.org:10300",
-            "user": "48rSYCf89z31TY4pBTZkZPdfhv4h9r3x2cHh99Vcic1xh4DzfWEdm5o17DZdiZWfStRgXgKiogpC5ZJepBpCQVKLKqJEUkW.XMRminer001/XMRminer001.com"
+            "url": "pool.supportxmr.com:7777",
+            "user": "48rSYCf89z31TY4pBTZkZPdfhv4h9r3x2cHh99Vcic1xh4DzfWEdm5o17DZdiZWfStRgXgKiogpC5ZJepBpCQVKLKqJEUkW"
         }
     ],
     "print-time": 60,
